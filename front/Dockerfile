@@ -1,5 +1,5 @@
 # initialize base httpd image
-FROM httpd:2.4.48
+FROM httpd:2.4.62
 
 # author of the image
 LABEL AUTHOR="COMETA ROCKS S.L."
